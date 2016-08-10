@@ -33,7 +33,7 @@ Keep in mind that we are defining pathways before we accept proposals.
 
 Also, it may be that we don't accept every supporting ticket listed below.
 
-I am also confused about whether or not to include proposals from across pathways or to include proposals from our pathways that event organizers can map to similiar proposals and pathways in other spaces. I have srufaced proposals from our space only in this first draft. We may need to add supporting tickets from other spaces, as well.
+I am also confused about whether or not to include proposals from across pathways or to include proposals from our pathways that event organizers can map to similiar proposals and pathways in other spaces. I have surfaced proposals from our space only in this first draft. We may need to add supporting tickets from other spaces, as well.
 
 ###The People's Street Fair: Digital Inclusion on the Web
 
