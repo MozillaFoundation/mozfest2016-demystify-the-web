@@ -27,7 +27,7 @@ From the [submission form](https://docs.google.com/a/mozillafoundation.org/forms
 
 Please comment or submit issues to discuss the pathways themselves and feel free to edit copy and add activities for each pathway. I am capping my intial suggestions at 5-8 issues per pathway to make sure there's room for others to share the connections they see between proposals.
 
-Keep in mind that we are defining pathways before we accept proposals. We should also add a localization space or replace a pathway below with localization. Also, it may be that we don't accept every supporting ticket listed below.
+Keep in mind that we are defining pathways before we accept proposals. *We should also add a localization space or replace a pathway below with localization.* Also, it may be that we don't accept every supporting ticket listed below.
 
 
 ###The People's Street Fair: Digital Inclusion on the Web
