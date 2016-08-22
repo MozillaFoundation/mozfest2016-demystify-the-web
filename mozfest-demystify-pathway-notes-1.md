@@ -44,7 +44,7 @@ Last thing: I am confused about whether or not to include proposals from across 
 
 ###The Hall of Mirrors: Identity & Privacy on the Web
 
-**Range:** These interactive experiences and workshops help us discover who we are online as individuals and peoples connected with one another across the web. Provocative encunters, topics, and workshops help us consider who we are and what we want the web to be.
+**Range:** These interactive experiences and workshops help us discover who we are online as individuals and peoples connected with one another across the web. Provocative encounters, topics, and workshops help us consider who we are and what we want the web to be.
 
 **Supporting Tickets:** [The Reactor](https://github.com/MozillaFoundation/mozfest-program-2016/issues/18), [Everyday Threat](https://github.com/MozillaFoundation/mozfest-program-2016/issues/19), [Privacy by Default, for Everyone. Everywhere](https://github.com/MozillaFoundation/mozfest-program-2016/issues/22), [Tor In Town To Educate People](https://github.com/MozillaFoundation/mozfest-program-2016/issues/124), [The Working Dead](https://github.com/MozillaFoundation/mozfest-program-2016/issues/161), [Re-Designing Gender Technology](https://github.com/MozillaFoundation/mozfest-program-2016/issues/211)
 
